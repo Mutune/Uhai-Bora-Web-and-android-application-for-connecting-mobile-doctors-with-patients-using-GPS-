@@ -1,0 +1,20 @@
+***The admin module is a Web application. It  is Node Js application that has being created using the VueJS framework while
+using the firebase database***
+
+***For the android APKs are in the folder, copy in an android phone and install***
+
+ To run the admin Web application:
+1. First install Node.
+      Use the page  https://nodejs.org/en/download/ , download and install node.
+2. Copy the salutare admin zip file in a computer, and extract the files into a folder.
+3. Now open command prompt and navigate to the location you have copied the Admin web module folder.
+4. Write " npm run serve " in the command prompt to run the application.
+5. Once it has run successfully, write "localhost:8000" or " localhost:8080".
+
+To run the android application once you have installed the android applications successfully :
+1. To login into the patient application, use a sample account with details:
+	email : jade@gmail.com
+            password:  123456
+2. To login into the doctor account.
+	email: joe@gmail.com
+           password: 123456
